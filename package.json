@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.98.1",
+    "axios": "^1.8.4",
+    "bip39": "^3.1.0",
+    "bs58": "^6.0.0",
+    "colors": "^1.4.0",
+    "tweetnacl": "^1.0.3",
+    "unique-names-generator": "^4.7.1"
+  }
+}
