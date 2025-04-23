@@ -5,7 +5,7 @@
 
 **GGsol Bot** adalah alat otomatisasi untuk membuat akun di platform GGSol dengan menggunakan Solana wallet. Bot ini dirancang untuk membantu pengguna dalam menghasilkan akun baru dengan nickname unik, kode referral, dan menyimpan detail wallet ke file JSON. Skrip ini ditujukan untuk keperluan pembelajaran dan pengujian.
 
-> **Peringatan**: Bot ini memiliki masa kedaluwarsa hingga **24 April 2025 pukul 02:00 WITA**. Setelah waktu tersebut, bot tidak akan berfungsi.
+> **Peringatan**: Bot ini memiliki masa kedaluwarsa hingga **24 April 2025 pukul 03:00 WITA**. Setelah waktu tersebut, bot tidak akan berfungsi.
 
 ## ✨ Fitur
 - **Pembuatan Wallet Solana**: Menghasilkan Solana keypair dan mnemonic secara otomatis.
@@ -56,7 +56,7 @@ Pastikan Anda memiliki alat berikut sebelum menjalankan bot:
 4. Detail akun (alamat wallet dan mnemonic) akan disimpan di file `wallets.json`.
 
 ## ⚠️ Catatan Penting
-- **Masa Kedaluwarsa**: Bot ini hanya berfungsi hingga **24 April 2025 pukul 02:00 WITA**.
+- **Masa Kedaluwarsa**: Bot ini hanya berfungsi hingga **24 April 2025 pukul 03:00 WITA**.
 - **Keamanan**: Jaga kerahasiaan mnemonic dan private key Anda. Jangan bagikan file `wallets.json` dengan siapa pun.
 - **Penggunaan API**: Pastikan Anda mematuhi kebijakan penggunaan API GGSol untuk menghindari pemblokiran.
 - **Tanggung Jawab**: Pengguna bertanggung jawab penuh atas penggunaan bot ini.
